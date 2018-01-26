@@ -1,161 +1,161 @@
-= Reference-Model for MBE
+# Reference-Model for MBE
 
-== Entity
+## Entity
 
-=== Context
+### Context
 
-==== Role
+#### Role
 
 Ex.: "Point of interest"
 
-==== Intent/Concern
+#### Intent/Concern
 
 Ex.: check security issues
 
-==== Perspective
+#### Perspective
 
 Ex.: view (elec. wiring in a building)
 
-==== Source/Subject
+#### Source/Subject
 
-==== Types/Kinds
+#### Types/Kinds
 
-=== Models
+### Models
 
-==== Engineering
+#### Engineering
 
-==== Scientific
+#### Scientific
 
-=== Views
+### Views
 
 Ex.: state machine
 
 Ex.: dashboard
 
-=== Language ??
+### Language ??
 
-=== Concerns
+### Concerns
 
-=== Viewpoints
+### Viewpoints
 
-==== Structural
+#### Structural
 
-==== Behavioral
+#### Behavioral
 
-=== User
+### User
 
-==== Stakeholders
+#### Stakeholders
 
-==== Engineer / Modeler
+#### Engineer / Modeler
 
-===== Domain experts
+##### Domain experts
 
-=== Interfaces
+### Interfaces
 
-==== External "service"
+#### External "service"
 
-==== APIs
+#### APIs
 
-== Relationships
+## Relationships
 
-=== Decomposition
+### Decomposition
 
 Ex.: Components/Sub-components
 
-=== Aggregation
+### Aggregation
 
 Ex.: "identifies"
 Ex.: "frames"
 
-=== Alignment
+### Alignment
 
 Ex.: consistency checking
 
-=== Realization
+### Realization
 
 Ex.: sequence diag. of a use case
 
-=== Correspondences
+### Correspondences
 
 Ex.: dependency
 
-==== Abstraction
+#### Abstraction
 
 Ex.: Metro map / Google map
 
-==== Approximation
+#### Approximation
 
-==== Refinement
+#### Refinement
 
 Ex.: From domain model to a design model
 
-==== ...
+#### ...
 
 
-=== Versioning
+### Versioning
 
-== Operations
+## Operations
 
-=== Engineering
+### Engineering
 
-==== Transformation
+#### Transformation
 
-===== M2M
+##### M2M
 
-===== M2T
+##### M2T
 
 Ex.: documentation
 Ex.: code generation
 
-==== Verification
+#### Verification
 
-=== User
+### User
 
-==== Navigation
+#### Navigation
 
-==== Heuristics / Rules
+#### Heuristics / Rules
 
-==== Usage / Time / ...
+#### Usage / Time / ...
 
-==== Explicit relationships
+#### Explicit relationships
 
-==== CRUD
+#### CRUD
 
-==== Query / Searching
+#### Query / Searching
 
-===== Basic (Synctactic)
+##### Basic (Synctactic)
 
 Ex.: open
 Ex.: view
 Ex.: select
 
-===== Filter
+##### Filter
 
-===== Advanced
+##### Advanced
 
 Ex.: With options
 Ex.: sort
 
-====== Capture model changes
+###### Capture model changes
 
 Ex.: diff
 
-==== Validation
+#### Validation
 
 Ex.: "Run"
 
-==== Simulation
+#### Simulation
 
-==== ...
+#### ...
 
-===  "Log" activities/manipulations/navigation
+###  "Log" activities/manipulations/navigation
 
-=== Database features
+### Database features
 
 Ex.: Rollbacks
 
-== Methodology
+## Methodology
 
-=== Language ??
+### Language ??
 
-=== Governance
+### Governance
