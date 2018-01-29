@@ -7,3 +7,7 @@ It was initiated during the [1st Winter Modelling Meeting](http://eventmall.info
 
 - [Constructing inter-model relations in tooling (subgroup constructive heterogeneous modeling)](https://docs.google.com/document/d/1Z2ff3EzbtMxEebeIS2j25l2xid1LMer70KhWKpF0NUI/edit?usp=sharing)
 - [Reference Model Mind Map](RM4MDE.md)
+
+## Existing environments
+
+- [Open-MBEE](http://www.openmbee.org/), proposed by [Nasa JPL](https://www.jpl.nasa.gov/)
